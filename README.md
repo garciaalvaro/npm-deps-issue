@@ -7,7 +7,7 @@ To see the behaviour of *npm v6* vs *v7*, this repository has 2 branches: `packa
 
 To reproduce:
 
-- With *node-14* and *npm-6* installed, checkout branch `package-lock-v1`, go to `./app` and run `npm install`. The produced node_modules folder structure is:
+- With *node-14* and *npm-6* installed, checkout branch `package-lock-v1`, go to `./app` and run `npm install`. The produced `node_modules` folder structure is:
 
 ```
 node_modules
